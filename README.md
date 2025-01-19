@@ -1,4 +1,6 @@
-# Olá, Eu sou Isack Túlio 👀
+### Olá, Eu sou Isack Túlio 👀
+
+### Estou aprendendo **desenvolvimento web**, do zero... 
 
 
 
