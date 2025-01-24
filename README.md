@@ -1,5 +1,7 @@
 ###Olá, Eu sou Isack Túlio 👀
 
+![snake gif](https://github.com/Isacktulio1/Isacktulio1/blob/output/github-contribution-grid-snake.gif)
+
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isack-Tulio-the-typescripter)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isack-tulio/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
