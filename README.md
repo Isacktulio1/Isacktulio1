@@ -1,5 +1,21 @@
 ###Olá, Eu sou Isack Túlio 👀
 
+##Introdução:
+
+Isack Túlio nasceu em 4 de setembro de 1981, em Igaporã, Bahia. Filho de Ivanilde Jonas da Costa e Atalibes Antônio da Silva, sua vida é marcada por uma busca constante por conhecimento e superação.
+    
+##Formação e Experiência:
+
+Formou-se no Colégio Estadual Deputado José Rocha e iniciou sua trajetória profissional em diversas áreas, sempre buscando aprender e contribuir de forma significativa.
+    
+##Interesses e Contribuições:
+
+Além do trabalho, Isack é apaixonado por TI e participa ativamente de cursos e comunidades da area.
+
+Objetivos Futuros:
+
+Sempre em busca de novos desafios, Isack planeja conquistar seus objetivos, acreditando que cada passo é um aprendizado.
+
 ![snake gif](https://github.com/Isacktulio1/Isacktulio1/blob/output/github-contribution-grid-snake.gif)
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Isack-Tulio-the-typescripter)
