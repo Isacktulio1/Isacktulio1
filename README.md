@@ -1,18 +1,18 @@
-###Olá, Eu sou Isack Túlio 👀
+### Olá, Eu sou Isack Túlio 👀
 
-##Introdução:
+## Introdução:
 
 Isack Túlio nasceu em 4 de setembro de 1981, em Igaporã, Bahia. Filho de Ivanilde Jonas da Costa e Atalibes Antônio da Silva, sua vida é marcada por uma busca constante por conhecimento e superação.
     
-##Formação e Experiência:
+## Formação e Experiência:
 
 Formou-se no Colégio Estadual Deputado José Rocha e iniciou sua trajetória profissional em diversas áreas, sempre buscando aprender e contribuir de forma significativa.
     
-##Interesses e Contribuições:
+## Interesses e Contribuições:
 
 Além do trabalho, Isack é apaixonado por TI e participa ativamente de cursos e comunidades da area.
 
-Objetivos Futuros:
+## Objetivos Futuros:
 
 Sempre em busca de novos desafios, Isack planeja conquistar seus objetivos, acreditando que cada passo é um aprendizado.
 
