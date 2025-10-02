@@ -1,4 +1,4 @@
- ![Logo Markdown](img/md.png)
+ ![Logo Markdown](https://ibb.co/8gJqVZFM)
 
 // Página Guia prático //
 
@@ -46,7 +46,7 @@
 
 # *Imagem
 
-![Logo Markdown](img/markdown.svg)
+![Logo Markdown](https://ibb.co/8gJqVZFM)
 
 # *Mesa
 
